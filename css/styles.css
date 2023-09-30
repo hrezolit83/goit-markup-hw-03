@@ -44,12 +44,13 @@ img {
     align-items: center;
     flex-grow: 1;
     gap: 76px;
+    padding: 24px 0;
     
 }
 
 .header-container {
     display: flex;
-    padding: 24px 0;
+    align-items: center;
 }
 
 .header-logo {
@@ -115,7 +116,7 @@ img {
 }
 
 .address-item {
-    
+
 }
 
 .address-link {
