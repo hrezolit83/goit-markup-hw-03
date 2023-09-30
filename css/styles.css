@@ -27,9 +27,8 @@ img {
 
 .container {
     width: 1158px;
-    padding-left: 15px;
-    padding-right: 15px;
     margin: 0 auto;
+    padding: 0 15px;
 }
 
 .header {
@@ -58,7 +57,9 @@ img {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    margin-right: 76px
+    margin-right: 76px;
+   
+
 }
 
 .logo-span {
@@ -79,6 +80,7 @@ img {
 
 .header-menu-item {
     
+    
 }
 
 .header-menu-link {
@@ -87,6 +89,7 @@ img {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    padding: 24px 0;
 }
 
 .header-menu-link:active {
@@ -212,6 +215,7 @@ img {
 
 .team {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 
 .team-title {
