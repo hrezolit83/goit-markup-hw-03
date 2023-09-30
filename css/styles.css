@@ -34,7 +34,7 @@ img {
 
 .header {
     border-bottom: 1px solid #e7e9fc;
-    padding: 24px 0;
+    
     }
 
 .header-navigation {
@@ -47,7 +47,7 @@ img {
 
 .header-container {
     display: flex;
-    padding: 24px 0;
+    
 }
 
 .header-logo {
@@ -90,7 +90,7 @@ img {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    padding: 24px 0;
+    
 }
 
 .header-menu-link:active {
