@@ -29,7 +29,8 @@ img {
 .container {
     width: 1158px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding-left: 15px;
+    padding-right: 15px;
     text-align: center;
 }
 
@@ -146,7 +147,7 @@ img {
     font-weight: 700;
     letter-spacing: 0.02em;
     text-align: center;
-    max-width: 496;
+    max-width: 496px;
 }
 
 .hero-button {
